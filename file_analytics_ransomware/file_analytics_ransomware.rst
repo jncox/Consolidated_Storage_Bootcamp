@@ -23,7 +23,7 @@ In this exercise you will enable File Analytics ransomware protection and trigge
 
 	   new-item \\BootcampFS.ntnxlab.local\marketing\ransomware.aaa -ItemType file
 
-#. In **File Analytics** review the **Vulnerabilities** table to see the blocked operation.  Note you may need to refresh the **Ransomware** page. 
+#. In **File Analytics** review the **Vulnerabilities** table to see the blocked operation.  Note you may need to refresh the **Ransomware** page.
 
    .. figure:: images/ransomware_attempts.png
 
